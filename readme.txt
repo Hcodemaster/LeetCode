@@ -7,3 +7,14 @@
 链接：https://leetcode.cn/problems/array-nesting
 
 解法：哈希模拟， 数组模拟 详细代码见LeetCode-565-solution
+
+
+题目编号：814 二叉树剪枝 知识点考查：树，递归，非递归遍历，递归遍历
+题目描述：给你二叉树的根结点 root ，此外树的每个结点的值要么是 0 ，要么是 1 。
+返回移除了所有不包含 1 的子树的原二叉树。
+节点 node 的子树为 node 本身加上所有 node 的后代
+来源：力扣（LeetCode）
+链接：https://leetcode.cn/problems/binary-tree-pruning
+
+
+解法：递归，非递归先序遍历，非递归后序遍历（待补充）
